@@ -1,2 +1,4 @@
 # nextjs-pokedex
- aa
+ 
+ Percobaan Poke API 
+ Magang ( April 2021 )
